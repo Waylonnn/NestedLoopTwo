@@ -5,7 +5,7 @@ public class Main {
             for(int j = i; j > 0; j--){
                 System.out.print("*");
             }
-            System.out.println("");
+            System.out.println(" ");
         }
 
         System.out.println("Loop 2");
@@ -13,7 +13,7 @@ public class Main {
             for(int j = i; j > 0; j--){
                 System.out.print("*");
             }
-            System.out.println("");
+            System.out.println(" ");
         }
 
         System.out.println("Loop 3");
@@ -21,7 +21,7 @@ public class Main {
             for(int j = 0; j < 5; j++){
                 System.out.print("*");
             }
-            System.out.println("");
+            System.out.println(" ");
         }
     }
 }
